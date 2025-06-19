@@ -1,7 +1,5 @@
 # VLSI_ECE_NTUA
 
-# VHDL Hardware Design Projects on Vivado
-
 This repository includes a collection of hardware design projects developed in **VHDL** using **Xilinx Vivado**. The work focuses on core architectural and implementation techniques for digital systems, with practical applications targeting **FPGAs** and specifically **ZYNQ SoC** platforms.
 
 ## Topics Covered
